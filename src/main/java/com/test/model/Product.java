@@ -1,4 +1,4 @@
-package com.tutorialspoint.demo.model;
+package com.test.model;
 
 public class Product {
    private String id;
